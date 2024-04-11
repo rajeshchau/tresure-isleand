@@ -9,8 +9,7 @@ The Treasure Island Game immerses players in an exciting adventure filled with t
 ## How to Play
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/treasure-island-game.git
-
+git clone https://github.com/rajeshchau/tresure-isleand.git
 markdown
 Copy code
 
